@@ -39,9 +39,13 @@ release = '1.0'
 # ones.
 # extensions = ['chinese_search']
 # 指明用 autodoc 的形式生成
-extensions = [
-        'sphinx.ext.autodoc'
-]
+
+
+
+
+extensions = ['recommonmark']
+
+
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
