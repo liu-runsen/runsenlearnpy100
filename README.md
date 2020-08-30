@@ -1,13 +1,35 @@
 # runsenlearnpy100
 # Python从小白变成大师教程（共十五万字）
 
+原创文章每周最少两篇，**后续最新文章**会在[【公众号】](#公众号)首发，视频[【B站】](https://space.bilibili.com/331507846)首发，大家可以加我[【微信】](#微信)进**交流群**，技术交流或提意见都可以，欢迎**Star**！
+
+
+
+<p align="center">
+  <a href="#微信" target="_blank"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
+  <a href="#公众号" target="_blank"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-Python%E4%B9%8B%E7%8E%8B-green" alt="公众号"></a>
+  <a href="https://www.zhihu.com/people/qian-xiao-28-8" target="_blank"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="知乎"></a>
+  <a href="https://blog.csdn.net/weixin_44510615" target="_blank"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
+</p>
+
+
+
 原标题：我的Python教程，不断整理，反复学习
 
 @Author ： By Runsen
 
 @公众号：Python之王
 
+<a name="微信"></a> 
+
+![](https://img-blog.csdnimg.cn/20200830105439153.png)
+
+
+
+ <a name="公众号"></a>
+
 ![](https://img-blog.csdnimg.cn/20200716234914987.jpg)
+
 
 
 人生最重要的不是所站的位置，而是内心所朝的方向。只要我在每篇博文中写得自己体会，修炼身心；在每天的不断重复学习中，耐住寂寞，练就真功，不畏艰难，奋勇前行，不忘初心，砥砺前行，人生定会有所收获，不留遗憾 （作者：Runsen ）
