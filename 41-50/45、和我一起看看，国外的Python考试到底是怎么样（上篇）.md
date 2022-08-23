@@ -50,7 +50,7 @@ def samPlaces(s1,s2):
     for index,item in enumerate(s1):
         my_dict[item] = index
     for i in s2:
-        if i in my_dict.keys():
+        if i in my_dict.keys() and my_dict[i] == s2.index(i):
             my_index.append(my_dict[i])
     return my_index
 if __name__ == '__main__':
